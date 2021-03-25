@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DroTron, Also known as Trevor Long
+- 👀 I’m interested in engineering and developing a simple bot for my Discord
+- 🌱 I’m currently learning Python and batchfile
+- 💞️ I’m looking to collaborate on making my Discord bot much more complicated and feature rich so that it can eventually be on more then just my server
+- 📫 Reach me over Discord at DroTron#1863
