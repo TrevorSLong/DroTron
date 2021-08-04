@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DroTron, Also known as Trevor Long in the real world
+- 👋 Hi, I’m @TrevorSLong, Also known as Trevor Long in the real world
 - 👀 I’m interested in engineering and developing a simple bot for my Discord
 - 🌱 I’m currently learning Python and batchfile
 - 💞️ I’m looking to collaborate on making my Discord bot much more complicated and feature rich so that it can eventually be on more then just my server
